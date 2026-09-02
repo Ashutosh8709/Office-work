@@ -2,7 +2,6 @@ import { motion, type Variants } from 'framer-motion'
 import { categoryStyle } from '../data/categories'
 import type { Question } from '../data/questions'
 import type { Theme } from '../hooks/useSettings'
-import { CategoryBadge } from './CategoryBadge'
 
 export type TransitionStyle = 'slide' | 'fade' | 'scale' | 'flip' | 'zoom'
 

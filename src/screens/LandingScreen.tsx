@@ -1,7 +1,6 @@
 import { useEffect } from 'react'
 import { motion } from 'framer-motion'
 import { ListChecks, Pencil, Play, Tv } from 'lucide-react'
-import { CATEGORIES, categoryStyle } from '../data/categories'
 
 type Props = {
   questionCount: number

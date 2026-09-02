@@ -1,11 +1,8 @@
 import { useCallback, useEffect, useRef, useState } from 'react'
-import { AnimatePresence, motion } from 'framer-motion'
+import { AnimatePresence } from 'framer-motion'
 import { Menu as MenuIcon, RefreshCw, Sparkles } from 'lucide-react'
 import { Backdrop } from '../components/Backdrop'
 import { INTRO_LINES, IntroOverlay } from '../components/IntroOverlay'
-import { KeyboardHints } from '../components/KeyboardHints'
-import { NavigationControls } from '../components/NavigationControls'
-import { ProgressIndicator } from '../components/ProgressIndicator'
 import {
   QuestionCard,
   TRANSITION_STYLES,
