@@ -14,10 +14,10 @@ const seeds: Seed[] = [
   { question: "Who has been with the department the longest?", category: 'Funny' },
   { question: "If our office had a reality TV show, what would it be called?", category: 'Funny' },
   { question: "Which team has the highest number of team members?", category: 'Funny' },
-  { question: "Which team joined the department most recently?", category: 'Funny' },
-  { question: "Can you name all the teams in your department?", category: 'Funny' },
+  { question: "Who is most likely to spot a bug before it ships?", category: 'Funny' },
+  { question: "Can you name at least 3 teams in your department?", category: 'Funny' },
   { question: "Which team has the most new joiners?", category: 'Funny' },
-  { question: "What was the major change in the last release?", category: 'Funny' },
+  { question: "What was the major change in your last release?", category: 'Funny' },
   { question: "What was the first major project our department worked on?", category: 'Funny' },
   { question: "Who is known for being the earliest to arrive?", category: 'Funny' },
 
@@ -27,8 +27,6 @@ const seeds: Seed[] = [
   { question: "Who is the department’s unofficial “Google” — the person everyone asks when they don't know something?", category: 'Unexpected' },
   { question: "Who is most likely to say “I’ll finish it today” and still be working on it tomorrow?", category: 'Unexpected' },
   { question: "If the office had a “Best Excuse for Being Late” award, who would win?", category: 'Unexpected' },
-  { question: "Which team has the highest number of internal transfers into the team?", category: 'Unexpected' },
-  { question: "Which team has the highest number of employees who have been with the company for less than 1 year?", category: 'Unexpected' },
   { question: "Who has worked across the highest number of teams within the department", category: 'Unexpected' },
 
   // 🏢 OFFICE
